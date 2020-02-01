@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 SearchTab.setVisibility(View.GONE);
                 RecomTab.setVisibility(View.VISIBLE);
-                godb();
+                //godb();
 
             }
         });
