@@ -98,7 +98,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="350dp"
-                android:background="#00BCD4"
+                android:background="#F44336"
                 android:text="검색"
                 android:textColor="#020202"
                 android:textSize="36dp" />

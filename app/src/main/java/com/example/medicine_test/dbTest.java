@@ -27,6 +27,5 @@ public class dbTest extends AppCompatActivity {
         }
         settingDB.setText(id);
         mDBManager.close();
-
     }
 }
