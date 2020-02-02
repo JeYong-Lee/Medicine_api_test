@@ -11,5 +11,5 @@
         android:layout_height="match_parent"
         android:id="@+id/settingDB"
         android:textSize="50dp"
-        android:text="OK"/>
+        android:text="TEST OK"/>
 </LinearLayout>
